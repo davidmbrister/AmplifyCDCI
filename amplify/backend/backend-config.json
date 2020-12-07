@@ -8,7 +8,7 @@
     }
   },
   "api": {
-    "amplifycdci": {
+    "campsAPI": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "output": {
@@ -17,12 +17,18 @@
             "authenticationType": "API_KEY",
             "apiKeyConfig": {
               "apiKeyExpirationDays": 7,
-              "description": "demo"
+              "description": "Test Key"
             }
           },
           "additionalAuthenticationProviders": []
         }
       }
+    }
+  },
+  "storage": {
+    "amplifyTest": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
     }
   }
 }
