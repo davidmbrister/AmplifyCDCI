@@ -34,7 +34,7 @@ function App() {
     }))
     setCamps(apiData.data.listCamps.items);
   }
-//
+
   async function createCamp() {
     if (!formData.name || !formData.description) return;
     await API.graphql({ query: createCampMutation, variables: { input: formData } });

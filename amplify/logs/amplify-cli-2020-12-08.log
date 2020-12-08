@@ -1,0 +1,10 @@
+2020-12-08T23:23:39.132Z|info : amplify plugin core scan 
+2020-12-08T23:23:44.361Z|info : amplify push core  {"yes":true}
+2020-12-08T23:23:47.962Z|info : amplify-provider-awscloudformation.zip-util.downloadZip.s3.getFile([{"Key":"[***]rent-[***]ud-[***]d.zip"},null])
+2020-12-08T23:23:47.964Z|info : amplify-provider-awscloudformation.aws-s3.s3.getFile([{"Key":"[***]rent-[***]ud-[***]d.zip","Bucket":"[***]ify-[***]43a8ff44-[***]ing-[***]30-[***]ment"}])
+2020-12-08T23:23:49.314Z|info : amplify-provider-awscloudformation.initialize-env.run.cfn.updateamplifyMetaFileWithStackOutputs([{"StackName":"[***]ify-[***]43a8ff44-[***]ing-[***]30"}])
+2020-12-08T23:23:49.317Z|info : amplify-provider-awscloudformation.aws-cfn.updateamplifyMetaFileWithStackOutputs.cfn.describeStackResources([{"StackName":"[***]ify-[***]43a8ff44-[***]ing-[***]30"}])
+2020-12-08T23:23:49.614Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:us-[***]st-[***]08:stack/[***]ify-[***]43a8ff44-[***]ing-[***]30-[***]psAPI-[***]9JIWTR/[***]2730-[***]88-[***]eb-[***]4c-[***]1aefa"}])
+2020-12-08T23:23:49.618Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:us-[***]st-[***]08:stack/[***]ify-[***]43a8ff44-[***]ing-[***]30-[***]ci1a8509b8-[***]1KG5NC/[***]7910-[***]f6-[***]eb-[***]fb-[***]91af8"}])
+2020-12-08T23:23:49.620Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:us-[***]st-[***]08:stack/[***]ify-[***]43a8ff44-[***]ing-[***]30-[***]lifyTest-[***]SH7M17/[***]3d30-[***]8d-[***]eb-[***]d4-[***]07af6"}])
+2020-12-08T23:23:49.892Z|info : amplify-provider-awscloudformation.aws-s3.s3.getFile([{"Key":"[***]ify-[***]json","Bucket":"[***]ify-[***]43a8ff44-[***]ing-[***]30-[***]ment"}])
